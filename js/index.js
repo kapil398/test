@@ -29,35 +29,35 @@ const upidata =
 [
     {
         id:1,
-        image:"./image/upi/two-wheller.jpeg",
+        image:"./image/upi/899.jpeg",
         name:"Two-Wheeler",
         price:899,
 
     },
     {
         id:2,
-        image:"./image/upi/four-wheeler.jpeg",
+        image:"./image/upi/1099.jpeg",
         name:"Four-Wheeler",
         price:1099,
         
     },
     {
         id:3,
-        image:"./image/upi/hevay.jpeg",
+        image:"./image/upi/1199.jpeg",
         name:"Heavy-Vehicle",
         price:1199,
         
     },
     {
         id:4,
-        image:"./image/upi/hsrp-color-sticker.jpeg",
+        image:"./image/upi/1129.jpeg",
         name:"Hsrp-with-color-sticker",
         price:1299,
         
     },
     {
         id:5,
-        image:"./image/upi/color-sticker.jpeg",
+        image:"./image/upi/999.jpeg",
         name:"color-sticker",
         price:999,
         
