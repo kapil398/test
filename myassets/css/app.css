@@ -7,6 +7,19 @@
 .slide-sec{
     display: none !important;
 }
+@media (max-width: 767.98px) {
+    .row {
+        text-align: center;
+    }
+    .banner-inner {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .banner-content {
+        display: inline-block;
+        text-align: center;
+    }
+}
 
 @media (max-width: 992px) {
     header {

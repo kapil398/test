@@ -4,6 +4,15 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700|Montserrat:300,400,500,600,700,800');
 
 /*------- 03. Header css here --------*/
+@media (max-width: 567.98px) {
+  .row
+  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
 
 .col-auto {
     padding: 0px !important;
